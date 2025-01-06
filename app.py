@@ -99,6 +99,10 @@ def main():
                 text_chunks = get_text_chunks(raw_text)
                 get_vector_store(text_chunks)
                 st.success("Done")
+    footer_html = """<div style='text-align: center;'>
+                    <p>Developed with ❤️ by vyom verma</p>
+                    </div>"""
+    st.markdown(footer_html, unsafe_allow_html=True)
 
 
 
