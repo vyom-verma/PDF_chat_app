@@ -90,7 +90,9 @@ This is a **Streamlit**-based application that enables users to upload PDF files
 4. **Conversational AI**:  
    User queries are processed by the conversational chain, which retrieves relevant document chunks and generates responses using Google Gemini.
 
----![FLow of app](https://github.com/user-attachments/assets/15d6c3b1-f325-434f-8fac-895d313152a2)
+![Flow diagram](https://github.com/user-attachments/assets/e5566803-6261-4d46-bf3d-fcdf6fa8d9ec)
+
+---
 
 
 ## Dependencies  
