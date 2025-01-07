@@ -1,7 +1,5 @@
 
 
-Here is a structured README file for your Streamlit application:  
-
 ---
 
 # Chat with PDF Application using Gemini  
