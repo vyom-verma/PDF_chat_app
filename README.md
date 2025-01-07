@@ -37,7 +37,7 @@ This is a **Streamlit**-based application that enables users to upload PDF files
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/vyom-verma/PDF_chat_app.git)
    cd <repository-folder>
    ```
 
