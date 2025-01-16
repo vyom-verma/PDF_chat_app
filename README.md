@@ -121,6 +121,8 @@ The following libraries are used in this project:
 - Add functionality for saving and loading user sessions.  
 
 ---
+## Streamlit app:
+[visit app](https://pdf-to-chat-app.streamlit.app/)
 
 ## Author  
 
